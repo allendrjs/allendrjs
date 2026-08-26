@@ -16,4 +16,5 @@ I'm a **Data Analyst** who enjoys turning messy data into clear answers. I work 
 
 #### 📊 GitHub Stats
 
-![Geo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Geo's GitHub stats](https://github-readme-stats.vercel.app/api?username=allendrjs&show_icons=true&theme=default&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allendrjs&layout=compact&theme=default&cache_seconds=86400)
