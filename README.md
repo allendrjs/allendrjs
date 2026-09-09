@@ -2,10 +2,10 @@
 
 I'm a **Data Analyst** who enjoys turning messy data into clear answers. I work mostly in SQL, Python, and Excel, and build dashboards in Tableau to make findings easy to act on.
 
-- 🔭 Currently working on data analysis projects
-- 🌱 Always sharpening my SQL and Python skills
-- 📫 Reach me at geo.villanueva.derojas@gmail.com
-- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/geoffrey-allen-de-rojas-31b15441a/)
+-  Currently working on data analysis projects
+- Always sharpening my SQL and Python skills
+- Reach me at geo.villanueva.derojas@gmail.com
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/geoffrey-allen-de-rojas-31b15441a/)
 
 #### 🛠️ Tech Stack
 
