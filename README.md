@@ -1,8 +1,6 @@
 ### Hi 👋, I'm Geoffrey Allen de Rojas
 
-**Full-Stack Developer — Java, Python & Data**
-
-I build web and mobile applications with Java, Python, and SQL, and turn what comes out of them into dashboards people actually read. Comfortable across the whole path — schema, backend, interface, and the chart at the end of it.
+**Developer — Java, Python & Data**
 
 - 📫 Reach me at geo.villanueva.derojas@gmail.com
 - 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/geoffrey-allen-de-rojas-31b15441a/)
