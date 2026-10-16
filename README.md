@@ -28,13 +28,3 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-#### 🚀 Featured Projects
-
-- **Budget Tracker** — personal finance app with expense tracking, budgets, savings goals, and recurring transactions. React + TypeScript frontend, Laravel 12 REST API, MySQL, Docker Compose. Money stored as integer minor units to avoid rounding drift; 42 endpoints, 145 backend tests.
-- **NBA Game Outcome & Score Predictor** — random forest models predicting NBA winners and final scores from pre-tipoff team stats. Trained on 2,268 games (2023–26 seasons); 74.4% winner accuracy vs. a 54.9% baseline, ~9.6 point mean score error. Python, scikit-learn, pandas, Jupyter.
-- **RC-OSD Mobile** — Android client for a thesis system, sharing a backend with a companion web app. Kotlin, Android Studio. Served as Scrum Master and Product Owner alongside development.
-
-#### 📊 GitHub Stats
-
-![Geo's GitHub stats](https://github-readme-stats.vercel.app/api?username=allendrjs&show_icons=true&theme=default&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allendrjs&layout=compact&theme=default&cache_seconds=86400)
